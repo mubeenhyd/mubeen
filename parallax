@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Parallax</title>
+</head>
+
+<div class="container-for-parallax-layers">
+  <div class="background layer"></div>
+  <div class="midground layer"></div>
+  <div class="foreground layer"></div>
+</div>
+<body>
+    
+</body>
+</html>
